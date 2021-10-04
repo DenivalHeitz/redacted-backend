@@ -1,0 +1,28 @@
+This week saw the annual check-in with Linux creator Linus Torvalds at the Open Source Summit North America, this year
+held in Seattle (as well as virtually).
+
+Torvalds took the stage Tuesday in the ballroom at the Hyatt Regency Seattle for the event’s traditional half-hour of
+questions from Dirk Hohndel, an early Linux contributor (now also the chief open source officer and vice president at
+VMware) in an afternoon keynote session.
+
+The ceremony opened by acknowledging a special moment in time with a birthday cake ceremoniously delivered to Torvalds
+to mark Linux’s 30th anniversary, drawing a round of applause from the audience. Hohndel added he was offering
+30th-birthday wishes “to all of the kernel developers — it really is a community also.”
+
+The theme of community seemed to keep coming up — notably about what that community has ultimately taught Linus
+Torvalds.
+
+It started with Torvalds’ memories of the first precious hours of the operating system’s release. While he’d intended to
+call his newly-minted operating system Freax, “I had already been told that the FTP site that I put it on, that I did
+not maintain, had a directory called Linux. So I had actually changed the name in the kernel main make file to be Linux
+at that point.”
+He added, “I am eternally grateful for two other people for having more taste than I did.”
+
+But then Torvalds remembered he’d expected to move on to the next new and interesting project, leaving Linux behind in a
+state where “it’s kind of done. It’s not quite usable. But it’s done enough that it’s not interesting anymore.
+“That was clearly then what open source changed. Because suddenly this project — that I probably would’ve left behind,
+if it was only up to me — I started getting questions about, and eventually patches — that just kept the motivation
+going. And here we are 30 years later, and it’s still what keeps the motivation going.
+
+“Because as far as I’m concerned, it’s been done for 29 of those 30 years, and every single feature ever since has been
+about things that other people needed or wanted or were interested in.”

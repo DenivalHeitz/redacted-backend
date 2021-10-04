@@ -1,0 +1,24 @@
+Today we will see how can we easily understand any JavaScript regular expression or write your own regular expression
+easily.
+Consider, we want to check if the input contains digits so we will add the \d in the regular expression search box
+section and the input for which we want to test the expression in test string section. You will see something like this:
+If you check the Match Information section on the right side, you can see that the regular expression matches the test
+string for each digit separately.
+If you want to match the entire input 123, you need to add + after \d (to match one or more occurrence of digit) like
+this \d+ and you will see the output as below:
+As you can see in Match Information section, it’s a full match now.
+
+You can also see the explanation section on top right side which shows what each part of regular expression does, which
+is very helpful if you don’t know how something works.
+
+If the test string does not match the regular expression, it will be shown as below:
+Now, let’s take a regular expression which checks for a visa credit card (All Visa card numbers start with a 4. New
+cards have 16 digits. Old cards have 13 digits.)
+
+If you add the above regular expression in regular expression search box, then you can see, the explanation section
+updated showing the explanation of the expression as shown below:
+So using this way, you can take any regular expression in the world and check what it does and also validate for the
+input string at the same time.
+
+This will also save your time and increases productivity as you can quickly change the regular expression or input
+string and test it for match.
